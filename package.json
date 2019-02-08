@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_goit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "debug": "node --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandraSivukhova/NodeJS_goit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandraSivukhova/NodeJS_goit/issues"
+  },
+  "homepage": "https://github.com/AlexandraSivukhova/NodeJS_goit#readme",
+  "dependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.9"
+  }
+}
